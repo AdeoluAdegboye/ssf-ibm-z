@@ -77,7 +77,7 @@ def retrieve_doc(new_query,raw_docs,colname = None): # inputs are new_query,corp
     # print(f"\nIndex of the maximum valued similar document is : \033[1m{argmax}\033[0m")
     # print(f"Retrieved Document Header is : \033[1m{data.Heading[argmax]}\033[0m")
     header = data.Heading[argmax]
-    ind = np.argsort(sim,axis = 0)[::-1][:number] #sorts similarity scores in [::-1] descending order ,[:10] top 10 most similar articles
+    ind = np.argsort(sim,axis = 0)[::-1][:10] #sorts similarity scores in [::-1] descending order ,[:10] top 10 most similar articles
     # print("\nTop 10 News Articles similar to new_query are : \n")
     # for i in ind:
         # print(data.Heading.values[i]) #prints the Headings of the top 10 similar articles
