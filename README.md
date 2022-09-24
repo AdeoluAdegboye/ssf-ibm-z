@@ -1,6 +1,6 @@
 # Team Name: We Pi
 
-![]()
+![Thumbnail](https://user-images.githubusercontent.com/81156510/192115127-fa0fd9c5-d894-45d9-84f8-98a46e7e4c8e.png)
 
 ## Inspiration
 **Google News Recommendation System working is what inspired us to do this project.**
