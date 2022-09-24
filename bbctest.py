@@ -12,7 +12,7 @@ from matplotlib.ticker import FuncFormatter
 
 #Read files Iteratively
 import glob
-import os
+# import os
 
 # def load_data(folder_names, root_path):
 #     fileNames = [path + "./BBC News Summary/News Articles/" + folder + '/' + "*.txt"
