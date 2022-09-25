@@ -41,3 +41,6 @@
 
 ### Screenshot - Streamlit
 ![Streamlit Output](https://user-images.githubusercontent.com/81156510/192115720-7ebe1a77-bc0e-4f57-8220-f9102fec0fa6.png)
+
+## Video Demonstration
+[![IBM Z - We Pi Demo](https://user-images.githubusercontent.com/81156510/192115127-fa0fd9c5-d894-45d9-84f8-98a46e7e4c8e.png)](https://youtu.be/VFV2xQe4ZxY "IBM Z Demo Final")
