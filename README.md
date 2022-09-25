@@ -34,6 +34,8 @@
 - Build a SaaS product and make it open-source for everyone to access and stay updated.
 - Working to integrate Web Scraping to support different other news categories.
 
+**Note:** Main file that contains the final code is `bbc_prod.ipynb`
+
 ## Screenshots📷
 
 ### Screenshot - Linux1CC Platform
